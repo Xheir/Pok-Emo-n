@@ -5,4 +5,7 @@ class Pokemon{
     public:
     Pokemon();
     ~Pokemon();
+    void pokemonResistance();
+    void pokemonWeakness();
+    void pokemonImmune();
 };

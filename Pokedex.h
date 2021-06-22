@@ -1,8 +1,11 @@
 #include "Pokemon.h"
+#include <fstream>
+#include <vector>
 using namespace std;
 
 class Pokedex{
     private:
+    fstream leer;
     public:
     Pokedex();
     ~Pokedex();
