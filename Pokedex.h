@@ -1,3 +1,4 @@
+#include "Pokemon.h"
 using namespace std;
 
 class Pokedex{
@@ -5,4 +6,8 @@ class Pokedex{
     public:
     Pokedex();
     ~Pokedex();
+    Pokemon addPokemon(string string);
+    Pokemon removePokemon(string string);
+    Pokemon getPokemon(string string);
+    
 };
