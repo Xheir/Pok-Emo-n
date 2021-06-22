@@ -22,7 +22,7 @@ bug: {
 		HPivs: {atk: 30, def: 30, spd: 30},
 		HPdvs: {atk: 13, def: 13},
 	},
-	dark: {
+dark: {
 		damageTaken: {
 			prankster: 3,
 			Bug: 1,
@@ -46,7 +46,7 @@ bug: {
 		},
 		HPivs: {},
 	},
-	dragon: {
+dragon: {
 		damageTaken: {
 			Bug: 0,
 			Dark: 0,
@@ -70,7 +70,7 @@ bug: {
 		HPivs: {atk: 30},
 		HPdvs: {def: 14},
 	},
-	electric: {
+electric: {
 		damageTaken: {
 			par: 3,
 			Bug: 0,
@@ -95,7 +95,7 @@ bug: {
 		HPivs: {spa: 30},
 		HPdvs: {atk: 14},
 	},
-	fairy: {
+fairy: {
 		damageTaken: {
 			Bug: 2,
 			Dark: 2,
@@ -117,7 +117,7 @@ bug: {
 			Water: 0,
 		},
 	},
-	fighting: {
+fighting: {
 		damageTaken: {
 			Bug: 2,
 			Dark: 2,
@@ -141,7 +141,7 @@ bug: {
 		HPivs: {def: 30, spa: 30, spd: 30, spe: 30},
 		HPdvs: {atk: 12, def: 12},
 	},
-	fire: {
+fire: {
 		damageTaken: {
 			brn: 3,
 			Bug: 2,
@@ -166,7 +166,7 @@ bug: {
 		HPivs: {atk: 30, spa: 30, spe: 30},
 		HPdvs: {atk: 14, def: 12},
 	},
-	flying: {
+flying: {
 		damageTaken: {
 			Bug: 2,
 			Dark: 0,
@@ -190,7 +190,7 @@ bug: {
 		HPivs: {hp: 30, atk: 30, def: 30, spa: 30, spd: 30},
 		HPdvs: {atk: 12, def: 13},
 	},
-	ghost: {
+ghost: {
 		damageTaken: {
 			trapped: 3,
 			Bug: 2,
@@ -215,7 +215,7 @@ bug: {
 		HPivs: {def: 30, spd: 30},
 		HPdvs: {atk: 13, def: 14},
 	},
-	grass: {
+grass: {
 		damageTaken: {
 			powder: 3,
 			Bug: 1,
@@ -240,7 +240,7 @@ bug: {
 		HPivs: {atk: 30, spa: 30},
 		HPdvs: {atk: 14, def: 14},
 	},
-	ground: {
+ground: {
 		damageTaken: {
 			sandstorm: 3,
 			Bug: 0,
@@ -265,7 +265,7 @@ bug: {
 		HPivs: {spa: 30, spd: 30},
 		HPdvs: {atk: 12},
 	},
-	ice: {
+ice: {
 		damageTaken: {
 			hail: 3,
 			frz: 3,
@@ -291,7 +291,7 @@ bug: {
 		HPivs: {atk: 30, def: 30},
 		HPdvs: {def: 13},
 	},
-	normal: {
+normal: {
 		damageTaken: {
 			Bug: 0,
 			Dark: 0,
@@ -313,7 +313,7 @@ bug: {
 			Water: 0,
 		},
 	},
-	poison: {
+poison: {
 		damageTaken: {
 			psn: 3,
 			tox: 3,
@@ -339,7 +339,7 @@ bug: {
 		HPivs: {def: 30, spa: 30, spd: 30},
 		HPdvs: {atk: 12, def: 14},
 	},
-	psychic: {
+psychic: {
 		damageTaken: {
 			Bug: 1,
 			Dark: 1,
@@ -363,7 +363,7 @@ bug: {
 		HPivs: {atk: 30, spe: 30},
 		HPdvs: {def: 12},
 	},
-	rock: {
+rock: {
 		damageTaken: {
 			sandstorm: 3,
 			Bug: 0,
@@ -388,7 +388,7 @@ bug: {
 		HPivs: {def: 30, spd: 30, spe: 30},
 		HPdvs: {atk: 13, def: 12},
 	},
-	steel: {
+steel: {
 		damageTaken: {
 			psn: 3,
 			tox: 3,
@@ -415,7 +415,7 @@ bug: {
 		HPivs: {spd: 30},
 		HPdvs: {atk: 13},
 	},
-	water: {
+water: {
 		damageTaken: {
 			Bug: 0,
 			Dark: 0,
